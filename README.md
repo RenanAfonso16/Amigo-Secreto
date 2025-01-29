@@ -17,17 +17,28 @@ Exibir o resultado do sorteio
 Estrutura do Projeto
 
 📦 amigo-secreto
-├── 📂 assets       # Imagens e ícones
-├── 📄 style.css    # Estilos do projeto
-├── 📄 index.html   # Página principal
-├── 📄 app.js       # Lógica do aplicativo
-└── 📄 README.md    # Documentação
+
+📂 assets
+
+Imagens e ícones
+
+📄 style.css
+
+Estilos do projeto
+
+📄 index.html
+
+Página principal
+
+📄 app.js
+
+Lógica do aplicativo
+
+📄 README.md
+
+Documentação
 
 Como Usar
-
-Clone o repositório:
-
-git clone https://github.com/seu-usuario/amigo-secreto.git
 
 Abra o arquivo index.html em seu navegador.
 
