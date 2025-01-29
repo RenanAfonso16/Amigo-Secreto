@@ -1,18 +1,39 @@
 Amigo Secreto
 
-Este é um projeto simples de "Amigo Secreto" desenvolvido em HTML, CSS e JavaScript. A aplicação permite adicionar nomes de amigos a uma lista e realizar um sorteio aleatório para definir o amigo secreto.
+Descrição
+
+Este é um projeto simples de sorteio de amigo secreto. Os usuários podem adicionar nomes a uma lista e sortear aleatoriamente um amigo secreto.
 
 Funcionalidades
 
-Adicionar nomes à lista.
+Adicionar nomes à lista
 
-Validar entrada para evitar nomes vazios.
+Exibir a lista de amigos
 
-Exibir a lista de amigos adicionados.
+Sortear um amigo secreto
 
-Sortear um nome aleatório da lista.
+Exibir o resultado do sorteio
 
-Exibir o amigo secreto sorteado.
+Estrutura do Projeto
+
+📦 amigo-secreto
+├── 📂 assets       # Imagens e ícones
+├── 📄 style.css    # Estilos do projeto
+├── 📄 index.html   # Página principal
+├── 📄 app.js       # Lógica do aplicativo
+└── 📄 README.md    # Documentação
+
+Como Usar
+
+Clone o repositório:
+
+git clone https://github.com/seu-usuario/amigo-secreto.git
+
+Abra o arquivo index.html em seu navegador.
+
+Digite nomes na caixa de entrada e clique em "Adicionar".
+
+Clique em "Sortear amigo" para obter um resultado aleatório.
 
 Tecnologias Utilizadas
 
@@ -21,36 +42,3 @@ HTML
 CSS
 
 JavaScript
-
-Como Usar
-
-Clone este repositório ou baixe os arquivos.
-
-Abra o arquivo index.html em um navegador.
-
-Digite um nome no campo de entrada e clique no botão "Adicionar".
-
-Após adicionar os amigos, clique no botão "Sortear amigo" para realizar o sorteio.
-
-O nome sorteado será exibido na tela.
-
-Estrutura do Projeto
-
-📂 amigo-secreto
-├── 📂 assets       # Imagens e ícones
-├── 📄 style.css    # Estilos do projeto
-├── 📄 index.html   # Página principal
-├── 📄 app.js       # Lógica do aplicativo
-└── 📄 README.md    # Documentação
-
-Melhorias Futuras
-
-Adicionar a opção de remover amigos da lista.
-
-Implementar um modo de sorteio sem repetição.
-
-Melhorar o design com estilos mais sofisticados.
-
-Licença
-
-Este projeto está sob a licença MIT. Sinta-se à vontade para usá-lo e modificá-lo!
