@@ -36,12 +36,12 @@ O nome sorteado será exibido na tela.
 
 Estrutura do Projeto
 
-/amigo-secreto
-│── assets/           # Imagens e ícones
-│── style.css         # Estilos do projeto
-│── index.html        # Página principal
-│── app.js            # Lógica do aplicativo
-│── README.md         # Documentação
+📂 amigo-secreto
+├── 📂 assets       # Imagens e ícones
+├── 📄 style.css    # Estilos do projeto
+├── 📄 index.html   # Página principal
+├── 📄 app.js       # Lógica do aplicativo
+└── 📄 README.md    # Documentação
 
 Melhorias Futuras
 
